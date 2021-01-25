@@ -1,0 +1,4 @@
+baseURL = "https://quotesfeergop.vercel.app"
+languageCode = "en-us"
+title = "Quotes For Life For You"
+theme = "tale-hugo-master"
